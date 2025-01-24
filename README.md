@@ -20,7 +20,7 @@ Set your token for API authentication
 
 ## Setup 
 1. Clone the repository
-2. Install dependencies using 
+2. Navigate to the project directory and install dependencies using following command in the terminal 
 ```
 npm install
 ```
